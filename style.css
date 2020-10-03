@@ -1,0 +1,30 @@
+body {
+    background-color:rgba(57, 100, 126, 0.644); 
+}
+.Description:hover{
+    font-size: large;
+}
+.Description{
+    border: 2px;
+    border-radius: 30px;
+    background-color: rgb(50, 146, 150);
+    margin: 10px 20px 10px 20px;
+    width: 65%;
+    padding: 20px;    
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    
+    
+}
+.hover:hover{
+    background-color:grey;
+    font-size: 17px;
+    
+}
+img{
+    width: 28%;
+    border: 2px;
+    border-radius: 40px;
+    
+}
